@@ -12,7 +12,7 @@
 
 - 👨‍💻 Desenvolvedor Backend com foco em **PHP/Laravel** e **Node.js**  
 - 🔧 Apaixonado por aprender novas tecnologias e melhorar minhas habilidades  
-- ⚡ Trabalho com **mensageria** (RabbitMQ) e **autenticação** (OAuth 2.0, JWT)  
+- 📖 Aprimorando conhecimentos em **mensageria** (RabbitMQ) e **autenticação** (OAuth 2.0, JWT)  
 - 🎮 Gosto de **games**, **futebol** e **skate**  
 
 ---
